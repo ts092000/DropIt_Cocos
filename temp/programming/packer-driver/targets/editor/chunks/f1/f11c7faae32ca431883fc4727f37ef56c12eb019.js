@@ -1,0 +1,143 @@
+System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], function (_export, _context) {
+  "use strict";
+
+  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, Component, instantiate, Node, Prefab, ItemLeaderboard, GameCenterController, _dec, _dec2, _dec3, _dec4, _dec5, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _crd, ccclass, property, LeaderboardHandle;
+
+  function _initializerDefineProperty(target, property, descriptor, context) { if (!descriptor) return; Object.defineProperty(target, property, { enumerable: descriptor.enumerable, configurable: descriptor.configurable, writable: descriptor.writable, value: descriptor.initializer ? descriptor.initializer.call(context) : void 0 }); }
+
+  function _applyDecoratedDescriptor(target, property, decorators, descriptor, context) { var desc = {}; Object.keys(descriptor).forEach(function (key) { desc[key] = descriptor[key]; }); desc.enumerable = !!desc.enumerable; desc.configurable = !!desc.configurable; if ('value' in desc || desc.initializer) { desc.writable = true; } desc = decorators.slice().reverse().reduce(function (desc, decorator) { return decorator(target, property, desc) || desc; }, desc); if (context && desc.initializer !== void 0) { desc.value = desc.initializer ? desc.initializer.call(context) : void 0; desc.initializer = undefined; } if (desc.initializer === void 0) { Object.defineProperty(target, property, desc); desc = null; } return desc; }
+
+  function _initializerWarningHelper(descriptor, context) { throw new Error('Decorating class property failed. Please ensure that ' + 'transform-class-properties is enabled and runs after the decorators transform.'); }
+
+  function _reportPossibleCrUseOfItemLeaderboard(extras) {
+    _reporterNs.report("ItemLeaderboard", "./ItemLeaderboard", _context.meta, extras);
+  }
+
+  function _reportPossibleCrUseOfGameCenterController(extras) {
+    _reporterNs.report("GameCenterController", "../../Script/GameCenter/GameCenterController", _context.meta, extras);
+  }
+
+  function _reportPossibleCrUseOfLeaderBoard(extras) {
+    _reporterNs.report("LeaderBoard", "../../Script/Utils/DataTypes", _context.meta, extras);
+  }
+
+  return {
+    setters: [function (_unresolved_) {
+      _reporterNs = _unresolved_;
+    }, function (_cc) {
+      _cclegacy = _cc.cclegacy;
+      __checkObsolete__ = _cc.__checkObsolete__;
+      __checkObsoleteInNamespace__ = _cc.__checkObsoleteInNamespace__;
+      _decorator = _cc._decorator;
+      Component = _cc.Component;
+      instantiate = _cc.instantiate;
+      Node = _cc.Node;
+      Prefab = _cc.Prefab;
+    }, function (_unresolved_2) {
+      ItemLeaderboard = _unresolved_2.ItemLeaderboard;
+    }, function (_unresolved_3) {
+      GameCenterController = _unresolved_3.GameCenterController;
+    }],
+    execute: function () {
+      _crd = true;
+
+      _cclegacy._RF.push({}, "ef9cbraWItOer+rL83sFbH2", "LeaderboardHandle", undefined);
+
+      __checkObsolete__(['_decorator', 'Component', 'instantiate', 'Node', 'Prefab']);
+
+      ({
+        ccclass,
+        property
+      } = _decorator);
+
+      _export("LeaderboardHandle", LeaderboardHandle = (_dec = ccclass('LeaderboardHandle'), _dec2 = property({
+        type: _crd && GameCenterController === void 0 ? (_reportPossibleCrUseOfGameCenterController({
+          error: Error()
+        }), GameCenterController) : GameCenterController,
+        tooltip: 'Game center'
+      }), _dec3 = property({
+        type: Prefab,
+        tooltip: 'Prefab item leaderboard'
+      }), _dec4 = property({
+        type: Node
+      }), _dec5 = property({
+        type: _crd && ItemLeaderboard === void 0 ? (_reportPossibleCrUseOfItemLeaderboard({
+          error: Error()
+        }), ItemLeaderboard) : ItemLeaderboard
+      }), _dec(_class = (_class2 = class LeaderboardHandle extends Component {
+        constructor(...args) {
+          super(...args);
+
+          _initializerDefineProperty(this, "gameCenter", _descriptor, this);
+
+          _initializerDefineProperty(this, "prefabItem", _descriptor2, this);
+
+          _initializerDefineProperty(this, "container", _descriptor3, this);
+
+          _initializerDefineProperty(this, "personalItem", _descriptor4, this);
+
+          this.DISTANCE = 110;
+          this.TOTAL_ROW = 3;
+        }
+
+        show() {
+          this.node.active = true;
+          this.container.removeAllChildren();
+          this.gameCenter.getLeaderBoard(0).then(data => this.renderLeaderboard(data));
+        }
+
+        renderLeaderboard(data) {
+          for (let i = 0; i < this.TOTAL_ROW; i++) {
+            if (i >= data.length) break;
+            let item = data[i];
+            let el = instantiate(this.prefabItem);
+            this.container.addChild(el);
+            el.setPosition(0, -i * this.DISTANCE);
+            el.getComponent(_crd && ItemLeaderboard === void 0 ? (_reportPossibleCrUseOfItemLeaderboard({
+              error: Error()
+            }), ItemLeaderboard) : ItemLeaderboard).init(item.metadata.citizenName, `${item.point}`, item.index, false);
+          }
+
+          let lastChild = this.container.children[this.container.children.length - 1];
+          this.personalItem.node.setPosition(0, (lastChild.position.y + 75) * this.personalItem.node.scale.x);
+          let current = data.find(item => item.userId === this.gameCenter.user.userID);
+
+          if (current) {
+            this.personalItem.init(current.metadata.citizenName, `${current.point}`, current.index, true);
+            this.personalItem.node.active = true;
+          }
+        }
+
+        hidden() {
+          this.node.active = false;
+        }
+
+      }, (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "gameCenter", [_dec2], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: null
+      }), _descriptor2 = _applyDecoratedDescriptor(_class2.prototype, "prefabItem", [_dec3], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: null
+      }), _descriptor3 = _applyDecoratedDescriptor(_class2.prototype, "container", [_dec4], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: null
+      }), _descriptor4 = _applyDecoratedDescriptor(_class2.prototype, "personalItem", [_dec5], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: null
+      })), _class2)) || _class));
+
+      _cclegacy._RF.pop();
+
+      _crd = false;
+    }
+  };
+});
+//# sourceMappingURL=f11c7faae32ca431883fc4727f37ef56c12eb019.js.map

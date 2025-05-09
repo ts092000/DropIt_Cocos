@@ -1,0 +1,11 @@
+{
+  "name": "jewel-sliding",
+  "uuid": "49d2a33d-feee-47f5-a3e3-8dfb289bf57b",
+  "creator": {
+    "version": "3.7.4"
+  },
+  "dependencies": {
+    "@onechaintech/gamesdk": "^0.0.35",
+    "@onechaintech/gamesdk-dev": "^0.0.35"
+  }
+}

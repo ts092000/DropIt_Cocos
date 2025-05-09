@@ -1,0 +1,1253 @@
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunksbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fontsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_cubemapbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_contentbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default-terrainbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materialsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skyboxbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: asset-db:worker-init (666ms)
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_uibackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipelinebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/dependenciesbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmobackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/physicsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/toolsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effectsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtinbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/commonbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-modelsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/post-processbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacybackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entriesbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfacesbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/animbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/animaskbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/animgraphbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/animgraphvaribackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/effect-surfacebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/flowbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/forward-pipelinebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/jsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/pacbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/pmtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/rppbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/rtbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/scenebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/scene-2dbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/scene-qualitybackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/stgbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/terrainbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/ts-animation-graphbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/ts-render-flowbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/ts-render-pipelinebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_file_content/ts-render-stagebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmapbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-freetypebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/2dbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/3dbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/effectsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/lightbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/uibackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/dependencies/texturesbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/advancedbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/for2dbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/particlesbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/legacybackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internalbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalitiesbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/utilbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/internalbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipelinebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniformsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/colorbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/debugbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/databackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/lightingbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/mathbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/graph-expressionbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/meshbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/shadowbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/main-functionsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/data-structuresbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/texturebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/default-functionsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/includesbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/model-functionsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/data-structuresbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/lighting-flowbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functionsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/data-structuresbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/default-functionsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/effect-macrosbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/includesbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/module-functionsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/2d/uibackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/util/dccbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editorbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/miscbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/render-to-reflectmapbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/render-to-scenebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/render-to-scene/pipelinebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/deprecated.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/render-to-shadowmapbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/common-define.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/decode-base.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/decode.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/fog-base.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/decode-standard.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/fog-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/fog-vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/input-standard.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/input.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/lighting.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/lightingmap-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/local-batch.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/morph.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/output-standard.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/lightingmap-vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/output.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/sh-vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/shading-cluster-additive.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/shading-standard-additive.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/sh-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/shading-standard-base.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/shading-standard.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/shading-toon.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/shadow-map-base.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/shadow-map-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/shadow-map-vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/standard-surface-entry.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/skinning.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/post-process/anti-aliasing.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/post-process/fxaa-hq.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/post-process/fxaa.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/advanced/common-functions.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/advanced/eye.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/fog.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/morph-animation.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/probe.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/sh.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/shadow-map.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/skinning-animation-dqs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/skinning-animation-lbs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/world-transform.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/internal/embedded-alpha.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/internal/particle-common.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/internal/particle-trail.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/internal/alpha-test.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/internal/particle-vs-gpu.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/internal/particle-vs-legacy.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/internal/sprite-texture.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-csm.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/internal/sprite-common.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-diffusemap.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-global.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-forward-light.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-light-map.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-environment.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-local-batched.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-local.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-morph.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-reflection-probe.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-sh.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-shadow-map.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-shadow.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/color/aces.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-world-bound.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-skinning.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/color/gamma.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/data/packing.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/data/unpack.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/debug/debug-view-define.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/color/tone-mapping.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/effect/fog.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/effect/special-effects.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/lighting/brdf.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/lighting/attenuation.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/graph-expression/base.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/lighting/bxdf.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/lighting/functions.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/lighting/light-map.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/lighting/rect-area-light.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/math/coordinates.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/math/number.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/mesh/material.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/math/transform.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/mesh/vat-animation.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/math/octahedron-transform.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/shadow/native-pcf.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/texture/texture-lod.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/texture/cubemap.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/main-functions/general-vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/texture/texture-misc.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/main-functions/outline-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/main-functions/outline-vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/data-structures/lighting-intermediate-data.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/data-structures/lighting-result.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/data-structures/lighting-misc-data.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/default-functions/simple-skin.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/default-functions/toon.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/includes/standard.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/includes/common.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/default-functions/standard.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/includes/toon.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/lighting-flow/common-flow.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/model-functions/standard-common.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/model-functions/standard.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting-models/model-functions/toon.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/data-structures/fs-input.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/data-structures/vs-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/data-structures/vs-input.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/data-structures/vs-output.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/data-structures/vs-intermediate.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/data-structures/standard.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/data-structures/toon.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/default-functions/common-vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/default-functions/toon-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/default-functions/standard-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/effect-macros/common-macros.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/effect-macros/render-to-shadowmap.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/effect-macros/silhouette-edge.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/effect-macros/sky.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/effect-macros/terrain.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/includes/common-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/includes/common-vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/includes/toon-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/includes/standard-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/includes/standard-vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/includes/toon-vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/module-functions/common-vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/module-functions/debug-view.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/module-functions/toon-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/surfaces/module-functions/standard-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/misc/silhouette-edge-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/misc/silhouette-edge-vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/misc/sky-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/misc/sky-vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/render-to-reflectmap/fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/render-to-scene/fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/render-to-scene/vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/render-to-shadowmap/vs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/render-to-scene/pipeline/deferred-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/render-to-shadowmap/fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-entries/main-functions/render-to-scene/pipeline/forward-fs.chunkbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/builtin-standard.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:28-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/builtin-toon.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:27-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/builtin-terrain.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:28-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/builtin-unlit.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:28-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/advanced/eye.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:29-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/advanced/hair.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:29-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/advanced/simple-skin.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:30-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/advanced/sky.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:30-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/advanced/water.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:30-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/for2d/builtin-spine.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:30-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/for2d/builtin-sprite-renderer.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:30-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/for2d/builtin-sprite.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:30-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-camera-texture.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:30-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-clear-stencil.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:30-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-debug-renderer.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:30-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-geometry-renderer.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:30-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-graphics.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:30-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-occlusion-query.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:30-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-reflection-deferred.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/builtin-wireframe.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/legacy/standard.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/legacy/terrain.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/legacy/toon.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/particles/builtin-particle-gpu.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/particles/builtin-billboard.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/particles/builtin-particle-trail.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/particles/builtin-particle-xr-trail.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/particles/builtin-particle.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/deferred-lighting.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/bloom.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/fxaa-hq.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/planar-shadow.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/post-process.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:31-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/skybox.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/smaa.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/pipeline/tonemap.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/util/batched-unlit.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/util/sequence-anim.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/util/profiler.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/util/splash-screen.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/gizmo.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/box-height-light.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/grid-2d.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/grid-stroke.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/grid.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/light-probe-visualization.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/light.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/terrain-circle-brush.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/terrain-image-brush.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/internal/editor/terrain-select-brush.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/util/dcc/imported-metallic-roughness.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:32-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/effects/util/dcc/imported-specular-glossiness.effectbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: Preimport db internal success
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animationbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Imagebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboardbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Audiobackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Fontbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scriptbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copybackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/blockbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scenebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Fontbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Scriptbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameCenterbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameManagerbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Imagebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/Menubackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/PrefabManagerbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/Utilsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/EntryController.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/AudioController.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/Progress.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Script/ItemLeaderboard.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/Splash.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Script/LeaderboardHandle.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameCenter/GameCenterController.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameCenter/StoreAPI.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameManager/GameController.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameManager/GameView.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameManager/MatrixManager.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameManager/PoolManager.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameManager/ScoreManager.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/Menu/MenuController.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/PrefabManager/Block.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/Utils/Constants.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/Utils/DataTypes.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/Utils/GameData.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:33-debug: Preimport db assets success
+5-9-2025 14:46:33-debug: asset-db:worker-effect-data-processing (67ms)
+5-9-2025 14:46:35-debug: Set detail map pack:///resolution-detail-map.json: {  "./chunks/b0/b0f9601936b8121c57f30db8131ac33bc21fc4cc.js": {    "@onechaintech/gamesdk": {      "error": "Error: Module \"@onechaintech/gamesdk\" not found for file:///Users/ADMIN/Desktop/drop-it/assets/Script/GameCenter/GameCenterController.ts",      "messages": [        {          "level": "warn",          "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."        }      ]    }  }}
+5-9-2025 14:46:35-debug: Start up the 'internal' database...
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default-video.mp4background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/Default-Particle.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default-terrain/default-layer-texture.jpgbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_cubemap/back.jpgbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbxbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: asset-db:worker-init-script (6ms)
+5-9-2025 14:46:35-debug: Status file /Users/ADMIN/Desktop/drop-it/temp/asset-db/internal/fbx.FBX-glTF-conv/1263d74c-8167-4928-91a6-4e2672411f47/status.json: Error: ENOENT: no such file or directory, open '/Users/ADMIN/Desktop/drop-it/temp/asset-db/internal/fbx.FBX-glTF-conv/1263d74c-8167-4928-91a6-4e2672411f47/status.json'
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_cubemap/back.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/Default-Particle.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default-terrain/default-layer-texture.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_cubemap/bottom.jpgbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_cubemap/front.jpgbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_cubemap/left.jpgbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_cubemap/bottom.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_cubemap/front.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_cubemap/left.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_cubemap/right.jpgbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_cubemap/top.jpgbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-billboard-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-clear-stencil.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-particle-gpu-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-material-transparent.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_cubemap/right.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-particle-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-sprite-renderer-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-spine-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_cubemap/top.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/default-trail-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/missing-effect-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/missing-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/particle-add.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/standard-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/ui-alpha-test-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/ui-base-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/ui-graphics-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/ui-sprite-alpha-sep-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/ui-sprite-gray-alpha-sep-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/ui-sprite-gray-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_materials/ui-sprite-material.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/Camera.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/Terrain.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-deferred.rppbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-forward.rppbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/deferred-lighting.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/post-process.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/tonemap.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.hdrbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: Start to conver asset {asset[d032ac98-05e1-4090-88bb-eb640dcb5fc1](d032ac98-05e1-4090-88bb-eb640dcb5fc1)}
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/atom.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/atom.plistbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: Frame rate: 24 [{asset(1263d74c-8167-4928-91a6-4e2672411f47)}]
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/atom.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.png@b47c0background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@17020background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/atom.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/atom_new.plistbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@801ecbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_btn_disabled.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@2e76ebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_btn_normal.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@38fd2background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_btn_disabled.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: Conver asset/Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.hdr -> PNG success.
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_btn_disabled.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@40ecebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_btn_pressed.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_btn_normal.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@fc873background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_btn_normal.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.hdr@b47c0background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@8abdcbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_btn_pressed.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_editbox_bg.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@a804abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_btn_pressed.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@8d883background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@aae0fbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_panel.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_editbox_bg.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_progressbar.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_editbox_bg.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.png@b47c0@74afdbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_panel.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_progressbar_bg.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_progressbar.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_panel.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_progressbar.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.png@b47c0@8fd34background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_progressbar_bg.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.png@b47c0@bb97fbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_radio_button_off.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_progressbar_bg.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_radio_button_on.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.png@b47c0@7d38fbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_radio_button_off.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_radio_button_on.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.png@b47c0@e9a6dbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_radio_button_off.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_radio_button_on.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_scrollbar.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.png@b47c0@40c10background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_scrollbar_bg.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_scrollbar.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_scrollbar_vertical.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_scrollbar_vertical_bg.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_scrollbar.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_scrollbar_bg.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_scrollbar_bg.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_scrollbar_vertical.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_scrollbar_vertical_bg.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_sprite.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_scrollbar_vertical.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_scrollbar_vertical_bg.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_sprite_splash.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_toggle_checkmark.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_toggle_disabled.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_sprite.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_sprite.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_sprite_splash.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_sprite_splash.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_toggle_disabled.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_toggle_checkmark.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_toggle_normal.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_toggle_pressed.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_toggle_checkmark.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/camera.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.hdr@b47c0@74afdbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_toggle_normal.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/directional-light.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_toggle_normal.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_toggle_pressed.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.hdr@b47c0@8fd34background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/default_toggle_pressed.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.hdr@b47c0@bb97fbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/light-probe.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/camera.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/directional-light.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/particle-system.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/reflection-probe.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.hdr@b47c0@7d38fbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/scene-gizmo.mtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/sphere-light.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.hdr@b47c0@e9a6dbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/sphere-light.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.hdr@b47c0@40c10background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/light-probe.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/spot-light.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/webview.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/x.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/particle-system.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/reflection-probe.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/y.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/z.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/webview.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/x.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/spot-light.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/physics/default-physics-material.pmtlbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/x.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/y.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/parsed-effect-info.jsonbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/z.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Bold.fntbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/y.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/gizmo/z.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-BoldItalic.fntbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-BoldItalic_0.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Italic.fntbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:35-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Bold_0.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Italic_0.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Regular.fntbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Regular_0.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Bold_0.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-BoldItalic_0.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Bold_0.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-BoldItalic_0.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Italic_0.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-freetype/OpenSans-Bold.ttfbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Italic_0.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Regular_0.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Regular_0.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-freetype/OpenSans-BoldItalic.ttfbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-freetype/OpenSans-Italic.ttfbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/2d/Camera.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-freetype/OpenSans-Regular.ttfbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/3d/Capsule.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/3d/Cone.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/3d/Cube.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/3d/Cylinder.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/3d/Plane.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/3d/Sphere.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/3d/Quad.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/3d/Torus.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/effects/Particle System.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/light/Directional Light.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/light/Light Probe Group.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/light/Reflection Probe.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/light/Sphere Light.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/light/Spot Light.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/Button.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/Canvas.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/EditBox.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/Graphics.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/Label.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/Layout.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/Mask.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/ParticleSystem2D.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/ProgressBar.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/RichText.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/ScrollView.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/Slider.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/Sprite.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/SpriteRenderer.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/SpriteSplash.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/TiledMap.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/Toggle.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/ToggleContainer.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/VideoPlayer.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/WebView.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/Widget.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/ui/pageView.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/dependencies/textures/preintegrated-skin.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_prefab/2d/ui/Canvas.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/dependencies/textures/preintegrated-skin.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: start asset-db with asset: 419
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Bold.fntbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-BoldItalic.fntbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Regular.fntbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_fonts/builtin-bitmap/OpenSans-Italic.fntbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_ui/atom.plistbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: Start up the 'assets' database...
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animation/AnimBlockFall.animbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animation/AnimSplash.animbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animation/AnimationBlend.animbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animation/AnimationButton.animbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animation/AnimationCombo.animbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: asset-db:worker-startup-database[internal] (8804ms)
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animation/AnimationDirect.animbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animation/AnimationGameOver.animbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animation/AnimationLogo.animbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animation/logo.atlasbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animation/logo.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animation/logo.skelbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Audio/appear.wavbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Audio/click.mp3background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Audio/drag.mp3background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-log: UUID is initialized for "%s"./Users/ADMIN/Desktop/drop-it/assets/Animation/logo.png
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Audio/dragend.mp3background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Audio/drop.mp3background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Audio/forest-with-small-river-birds-and-nature-field-recording-6735.mp3background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Audio/gameover.mp3background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Audio/push.mp3background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Audio/remove.mp3background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Font/CAMRANH.TTFbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Font/ElecstromRegular-w1y4P.ttfbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Font/EvilEmpire-4BBVK.ttfbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Font/BigSpace-rPKx.ttfbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Font/Rowdies-Bold.ttfbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Font/LilitaOne-Regular.ttfbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/Bar.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Font/Warungasem-rgO1O.ttfbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/Outline.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/background.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/backgroundBig.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/Bar.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/background.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/Outline.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/Bar.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/background.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/backgroundBig.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/Outline.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/best_bar.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/bg_menu.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/backgroundBig.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/blend.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animation/logo.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/bg_menu.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animation/logo.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/bg_menu.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/best_bar.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/board.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/blend.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/best_bar.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/blend.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_menu.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_pause.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_play.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_restart.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_pause.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_menu.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_pause.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_menu.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/board.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/board.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_play.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_resume.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_play.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_sound_off.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_restart.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_restart.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_sound_on.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_resume.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_sound_off.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_resume.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_start.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_sound_off.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/direct.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/eye.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/game_title.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_sound_on.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_sound_on.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_start.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/direct.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/btn_start.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/direct.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/header.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/eye.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/popup_gameover.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/eye.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/popup_pause.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/uiLeaderBoard (5).pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/header.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/game_title.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/header.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/game_title.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/uiLeaderBoard (6).pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/uiLeaderBoard (5).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/uiLeaderBoard (5).png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/uiLeaderBoard (7).pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/uiRace (2).pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/uiLeaderBoard (6).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/popup_gameover.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/uiLeaderBoard (6).png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/popup_pause.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/popup_gameover.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/popup_pause.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/whitebg.jpgbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/uiLeaderBoard (7).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/uiLeaderBoard (7).png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/uiRace (2).png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/uiRace (2).png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/ItemLeaderboard.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/whitebg.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Leaderboard.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Prefab/Block.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/whitebg.jpg@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Prefab/Combo.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Prefab/Splash.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scene/Begin.scenebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scene/Entry.scenebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scene/Game.scenebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scene/Splash.scenebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/a1.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/a2.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/a3.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/a4.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/b1.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/a1.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/a2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/a1.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/a3.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/a2.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/b1.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/a3.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/a4.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/b1.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/a4.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/b2.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/b3.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/b4.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/c1.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/c2.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/b2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/b4.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/c1.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/b3.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/b2.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/b4.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/c1.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/b3.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/c2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/c2.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/c3.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/c4.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/d1.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/d2.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/d3.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/c3.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/d1.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/d2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/d1.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/c3.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/d2.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/c4.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/c4.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/d3.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/d4.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a1 - Copy.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a1.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/d3.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a2.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a3.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a1 - Copy.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/d4.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a1 - Copy.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a1.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block/d4.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a1.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a4.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/b1.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/b2.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a3.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a2.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a3.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/b3.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/b4.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a4.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/b2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/a4.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/b1.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/b2.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/b1.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/c1.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/c2.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/c3.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/b3.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/b4.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/b3.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/b4.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/c4.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/d1.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/c2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/c3.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/c2.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/c1.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/c3.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/c1.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/d2.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/d1.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/c4.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/d3.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/d1.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/c4.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/d4.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Font/Rowdies-Light.ttfbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Font/LilitaOne-Regular.ttfbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/d2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/d2.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/d3.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/d3.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Font/Rowdies-Regular.ttfbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/3.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/d4.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/4.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Image/block - Copy/d4.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/6.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/brg.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/cup.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/4.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/3.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/brg.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/4.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/6.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/3.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/brg.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/6.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/pause_bt_1.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/pause_bt_2.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/scroll.pngbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/cup.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/cup.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/scroll.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/scroll.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/pause_bt_1.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/pause_bt_2.png@6c48abackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/pause_bt_1.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Image/pause_bt_2.png@f9941background: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-debug: start asset-db with asset: 143
+5-9-2025 14:46:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Animation/logo.skelbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:46:36-log: UUID is initialized for "%s"./Users/ADMIN/Desktop/drop-it/assets/Animation/logo.png
+5-9-2025 14:46:36-debug: Asset DB is ready!
+5-9-2025 14:46:36-debug: asset-db:worker-startup-database[assets] (3393ms)
+5-9-2025 14:46:36-debug: init worker message success
+5-9-2025 14:46:37-debug: builder:worker-init (786ms)
+5-9-2025 14:46:37-debug: programming:execute-script (2ms)
+5-9-2025 14:46:44-debug: refresh db internal success
+5-9-2025 14:46:44-debug: asset-db:worker-effect-data-processing (101ms)
+5-9-2025 14:46:44-debug: refresh db assets success
+5-9-2025 14:46:44-debug: asset-db:refresh-all-database (139ms)
+5-9-2025 14:48:34-debug: refresh db internal success
+5-9-2025 14:48:34-debug: asset-db:worker-effect-data-processing (120ms)
+5-9-2025 14:48:34-debug: refresh db assets success
+5-9-2025 14:48:34-debug: asset-db:refresh-all-database (170ms)
+5-9-2025 14:48:48-debug: start refresh asset from /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Leaderboard.prefab...
+5-9-2025 14:48:48-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Leaderboard.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:48:48-debug: refresh asset /Users/ADMIN/Desktop/drop-it/assets/Leaderboard success
+5-9-2025 14:48:49-debug: start refresh asset from /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Leaderboard.prefab...
+5-9-2025 14:48:49-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Leaderboard.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:48:49-debug: refresh asset /Users/ADMIN/Desktop/drop-it/assets/Leaderboard success
+5-9-2025 14:48:49-debug: start refresh asset from /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Leaderboard.prefab...
+5-9-2025 14:48:49-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboard/Leaderboard.prefabbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:48:49-debug: refresh asset /Users/ADMIN/Desktop/drop-it/assets/Leaderboard success
+5-9-2025 14:49:14-debug: refresh db internal success
+5-9-2025 14:49:14-debug: asset-db:worker-effect-data-processing (109ms)
+5-9-2025 14:49:14-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Leaderboardbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:49:14-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameCenter/GameCenterController.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:49:14-debug: refresh db assets success
+5-9-2025 14:49:14-debug: asset-db:refresh-all-database (147ms)
+5-9-2025 14:52:00-debug: refresh db internal success
+5-9-2025 14:52:00-debug: asset-db:worker-effect-data-processing (127ms)
+5-9-2025 14:52:00-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scriptbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:52:00-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameCenterbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:52:00-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameManagerbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:52:00-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameManager/GameController.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:52:00-debug: refresh db assets success
+5-9-2025 14:52:00-debug: asset-db:refresh-all-database (175ms)
+5-9-2025 14:52:01-debug: start refresh asset from /Users/ADMIN/Desktop/drop-it/assets/Scene/Game.scene...
+5-9-2025 14:52:01-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scene/Game.scenebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:52:01-debug: refresh asset /Users/ADMIN/Desktop/drop-it/assets/Scene success
+5-9-2025 14:52:03-debug: Query all assets info in project
+5-9-2025 14:52:03-debug: BuildAssetLibrary query-assets with assets 705
+5-9-2025 14:52:03-debug:   Number of all scripts: 19
+5-9-2025 14:52:03-debug: Query asset bundle start0%
+5-9-2025 14:52:03-debug:   Number of all scenes: 4
+5-9-2025 14:52:03-debug: init custom config: keepNodeUuid: false, useCache: true
+5-9-2025 14:52:03-debug: // ---- build task Query asset bundle ----
+5-9-2025 14:52:03-debug:   Number of other assets: 539
+5-9-2025 14:52:03-debug: Process: heapTotal 233.47MB heapUsed 201.34MB rss 261.08MB
+5-9-2025 14:52:03-debug: // ---- build task Query asset bundle ---- (4ms)
+5-9-2025 14:52:03-debug: Query and organize assets start3%
+5-9-2025 14:52:03-debug: // ---- build task Query and organize assets ----
+5-9-2025 14:52:03-debug: Process: heapTotal 233.47MB heapUsed 197.28MB rss 262.08MB
+5-9-2025 14:52:03-debug: init bundle assets
+5-9-2025 14:52:03-debug: run build task Query asset bundle success in 4 ms √3%
+5-9-2025 14:52:03-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-9-2025 14:52:03-debug: Number of scenes: 4
+5-9-2025 14:52:03-debug: // ---- build task Query and organize assets ---- (1ms)
+5-9-2025 14:52:03-debug: Process: heapTotal 233.47MB heapUsed 197.43MB rss 262.28MB
+5-9-2025 14:52:03-debug: sort script group...
+5-9-2025 14:52:03-debug: // ---- build task Organize scripts ----
+5-9-2025 14:52:03-debug: run build task Query and organize assets success in 1 ms √7%
+5-9-2025 14:52:03-debug: Organize scripts start7%
+5-9-2025 14:52:03-debug: run build task Organize scripts success in 0 ms √10%
+5-9-2025 14:52:03-debug: Init settings and config start10%
+5-9-2025 14:52:03-debug: // ---- build task Init settings and config ----
+5-9-2025 14:52:03-debug: Process: heapTotal 233.47MB heapUsed 197.46MB rss 262.31MB
+5-9-2025 14:52:03-debug: run build task Init settings and config success in 0 ms √11%
+5-9-2025 14:52:03-debug: builder.tasks.settings.macro does not defined in i18n
+5-9-2025 14:52:03-debug: // ---- build task builder.tasks.settings.macro ----
+5-9-2025 14:52:03-debug: builder.tasks.settings.macro start11%
+5-9-2025 14:52:03-debug: Process: heapTotal 233.47MB heapUsed 197.49MB rss 262.34MB
+5-9-2025 14:52:03-debug: // ---- build task builder.tasks.settings.macro ---- (1ms)
+5-9-2025 14:52:03-debug: run build task builder.tasks.settings.macro success in 1 ms √11%
+5-9-2025 14:52:03-debug: Sort some build options to settings.json start11%
+5-9-2025 14:52:03-debug: // ---- build task Sort some build options to settings.json ----
+5-9-2025 14:52:03-debug: Process: heapTotal 233.47MB heapUsed 197.51MB rss 262.42MB
+5-9-2025 14:52:03-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+5-9-2025 14:52:03-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+5-9-2025 14:52:03-debug: custom joint texture layouts start12%
+5-9-2025 14:52:03-debug: // ---- build task custom joint texture layouts ----
+5-9-2025 14:52:03-debug: Process: heapTotal 233.73MB heapUsed 197.80MB rss 262.78MB
+5-9-2025 14:52:03-debug: run build task custom joint texture layouts success in 0 ms √12%
+5-9-2025 14:52:03-debug: custom joint physics start12%
+5-9-2025 14:52:03-debug: // ---- build task custom joint physics ----
+5-9-2025 14:52:03-debug: Process: heapTotal 233.73MB heapUsed 197.82MB rss 262.80MB
+5-9-2025 14:52:03-debug: run build task custom joint physics success in 0 ms √13%
+5-9-2025 14:52:03-debug: // ---- build task Fill script data to settings ----
+5-9-2025 14:52:03-debug: Fill script data to settings start13%
+5-9-2025 14:52:03-debug: Process: heapTotal 233.73MB heapUsed 197.84MB rss 262.83MB
+5-9-2025 14:52:03-debug: run build task Fill script data to settings success in 0 ms √13%
+5-9-2025 14:52:03-debug: Fill scene data to settings start13%
+5-9-2025 14:52:03-debug: // ---- build task Fill scene data to settings ----
+5-9-2025 14:52:03-debug: Process: heapTotal 233.73MB heapUsed 197.86MB rss 262.84MB
+5-9-2025 14:52:03-debug: run build task Fill scene data to settings success in 0 ms √14%
+5-9-2025 14:52:03-debug: Organize assets groups，generate packedAssets and rawAssets data start14%
+5-9-2025 14:52:03-debug: Process: heapTotal 233.73MB heapUsed 197.88MB rss 262.86MB
+5-9-2025 14:52:03-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-9-2025 14:52:03-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 0 ms √14%
+5-9-2025 14:52:03-debug: Generate md5AssetsMap from suffixMap to settings start14%
+5-9-2025 14:52:03-debug: Process: heapTotal 233.73MB heapUsed 197.90MB rss 262.88MB
+5-9-2025 14:52:03-debug: options.md5Cache is false.
+5-9-2025 14:52:03-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-9-2025 14:52:03-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 0 ms √15%
+5-9-2025 14:52:25-debug: refresh db internal success
+5-9-2025 14:52:25-debug: asset-db:worker-effect-data-processing (115ms)
+5-9-2025 14:52:25-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scenebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:52:25-debug: refresh db assets success
+5-9-2025 14:52:25-debug: asset-db:refresh-all-database (158ms)
+5-9-2025 14:52:26-debug: refresh db internal success
+5-9-2025 14:52:27-debug: asset-db:worker-effect-data-processing (74ms)
+5-9-2025 14:52:27-debug: refresh db assets success
+5-9-2025 14:52:27-debug: asset-db:refresh-all-database (112ms)
+5-9-2025 14:52:34-debug: refresh db internal success
+5-9-2025 14:52:34-debug: asset-db:worker-effect-data-processing (99ms)
+5-9-2025 14:52:34-debug: refresh db assets success
+5-9-2025 14:52:34-debug: asset-db:refresh-all-database (136ms)
+5-9-2025 14:52:59-debug: refresh db internal success
+5-9-2025 14:52:59-debug: asset-db:worker-effect-data-processing (109ms)
+5-9-2025 14:52:59-debug: refresh db assets success
+5-9-2025 14:52:59-debug: asset-db:refresh-all-database (141ms)
+5-9-2025 14:53:02-debug: refresh db internal success
+5-9-2025 14:53:02-debug: asset-db:worker-effect-data-processing (70ms)
+5-9-2025 14:53:02-debug: refresh db assets success
+5-9-2025 14:53:02-debug: asset-db:refresh-all-database (102ms)
+5-9-2025 14:53:18-debug: refresh db internal success
+5-9-2025 14:53:18-debug: asset-db:worker-effect-data-processing (86ms)
+5-9-2025 14:53:18-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/EntryController.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:53:18-debug: refresh db assets success
+5-9-2025 14:53:18-debug: asset-db:refresh-all-database (115ms)
+5-9-2025 14:53:18-debug: Query all assets info in project
+5-9-2025 14:53:18-debug: BuildAssetLibrary query-assets with assets 705
+5-9-2025 14:53:18-debug:   Number of all scripts: 19
+5-9-2025 14:53:18-debug:   Number of other assets: 539
+5-9-2025 14:53:18-debug: Query asset bundle start0%
+5-9-2025 14:53:18-debug: // ---- build task Query asset bundle ----
+5-9-2025 14:53:18-debug: init custom config: keepNodeUuid: false, useCache: true
+5-9-2025 14:53:18-debug:   Number of all scenes: 4
+5-9-2025 14:53:18-debug: Process: heapTotal 241.66MB heapUsed 211.72MB rss 283.63MB
+5-9-2025 14:53:18-debug: // ---- build task Query asset bundle ---- (14ms)
+5-9-2025 14:53:18-debug: run build task Query asset bundle success in 14 ms √3%
+5-9-2025 14:53:18-debug: Query and organize assets start3%
+5-9-2025 14:53:18-debug: // ---- build task Query and organize assets ----
+5-9-2025 14:53:18-debug: Process: heapTotal 241.66MB heapUsed 210.01MB rss 283.53MB
+5-9-2025 14:53:18-debug: init bundle assets
+5-9-2025 14:53:18-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-9-2025 14:53:18-debug: Number of scenes: 4
+5-9-2025 14:53:18-debug: // ---- build task Query and organize assets ---- (7ms)
+5-9-2025 14:53:18-debug: run build task Query and organize assets success in 7 ms √7%
+5-9-2025 14:53:18-debug: Organize scripts start7%
+5-9-2025 14:53:18-debug: // ---- build task Organize scripts ----
+5-9-2025 14:53:18-debug: Process: heapTotal 241.66MB heapUsed 210.16MB rss 283.66MB
+5-9-2025 14:53:18-debug: sort script group...
+5-9-2025 14:53:18-debug: // ---- build task Organize scripts ---- (2ms)
+5-9-2025 14:53:18-debug: run build task Organize scripts success in 2 ms √10%
+5-9-2025 14:53:18-debug: Init settings and config start10%
+5-9-2025 14:53:18-debug: // ---- build task Init settings and config ----
+5-9-2025 14:53:18-debug: Process: heapTotal 241.66MB heapUsed 210.20MB rss 283.66MB
+5-9-2025 14:53:18-debug: run build task Init settings and config success in 0 ms √11%
+5-9-2025 14:53:18-debug: builder.tasks.settings.macro start11%
+5-9-2025 14:53:18-debug: // ---- build task builder.tasks.settings.macro ----
+5-9-2025 14:53:18-debug: builder.tasks.settings.macro does not defined in i18n
+5-9-2025 14:53:18-debug: Process: heapTotal 241.66MB heapUsed 210.22MB rss 283.72MB
+5-9-2025 14:53:18-debug: // ---- build task builder.tasks.settings.macro ---- (1ms)
+5-9-2025 14:53:18-debug: run build task builder.tasks.settings.macro success in 1 ms √11%
+5-9-2025 14:53:18-debug: Sort some build options to settings.json start11%
+5-9-2025 14:53:18-debug: // ---- build task Sort some build options to settings.json ----
+5-9-2025 14:53:18-debug: Process: heapTotal 241.66MB heapUsed 210.24MB rss 283.72MB
+5-9-2025 14:53:18-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+5-9-2025 14:53:18-debug: custom joint texture layouts start12%
+5-9-2025 14:53:18-debug: // ---- build task custom joint texture layouts ----
+5-9-2025 14:53:18-debug: Process: heapTotal 241.92MB heapUsed 210.53MB rss 284.31MB
+5-9-2025 14:53:18-debug: run build task Sort some build options to settings.json success in 2 ms √12%
+5-9-2025 14:53:18-debug: // ---- build task custom joint texture layouts ---- (1ms)
+5-9-2025 14:53:18-debug: custom joint physics start12%
+5-9-2025 14:53:18-debug: // ---- build task custom joint physics ----
+5-9-2025 14:53:18-debug: Process: heapTotal 241.92MB heapUsed 210.56MB rss 284.34MB
+5-9-2025 14:53:18-debug: run build task custom joint texture layouts success in 1 ms √12%
+5-9-2025 14:53:18-debug: run build task custom joint physics success in 0 ms √13%
+5-9-2025 14:53:18-debug: Fill script data to settings start13%
+5-9-2025 14:53:18-debug: // ---- build task Fill script data to settings ----
+5-9-2025 14:53:18-debug: Process: heapTotal 241.92MB heapUsed 210.58MB rss 284.38MB
+5-9-2025 14:53:18-debug: run build task Fill script data to settings success in 0 ms √13%
+5-9-2025 14:53:18-debug: Process: heapTotal 241.92MB heapUsed 210.60MB rss 284.42MB
+5-9-2025 14:53:18-debug: // ---- build task Fill scene data to settings ----
+5-9-2025 14:53:18-debug: Fill scene data to settings start13%
+5-9-2025 14:53:18-debug: run build task Fill scene data to settings success in 0 ms √14%
+5-9-2025 14:53:18-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-9-2025 14:53:18-debug: Process: heapTotal 241.92MB heapUsed 210.62MB rss 284.44MB
+5-9-2025 14:53:18-debug: Organize assets groups，generate packedAssets and rawAssets data start14%
+5-9-2025 14:53:18-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 0 ms √14%
+5-9-2025 14:53:18-debug: Process: heapTotal 241.92MB heapUsed 210.65MB rss 284.47MB
+5-9-2025 14:53:18-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-9-2025 14:53:18-debug: Generate md5AssetsMap from suffixMap to settings start14%
+5-9-2025 14:53:18-debug: options.md5Cache is false.
+5-9-2025 14:53:18-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 0 ms √15%
+5-9-2025 14:53:18-debug: start refresh asset from /Users/ADMIN/Desktop/drop-it/assets/Scene/Game.scene...
+5-9-2025 14:53:18-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scene/Game.scenebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:53:18-debug: refresh asset /Users/ADMIN/Desktop/drop-it/assets/Scene success
+5-9-2025 14:53:21-debug: start refresh asset from /Users/ADMIN/Desktop/drop-it/assets/Scene/Game.scene...
+5-9-2025 14:53:21-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scene/Game.scenebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:53:21-debug: refresh asset /Users/ADMIN/Desktop/drop-it/assets/Scene success
+5-9-2025 14:53:22-debug: Query all assets info in project
+5-9-2025 14:53:22-debug: BuildAssetLibrary query-assets with assets 705
+5-9-2025 14:53:22-debug:   Number of other assets: 539
+5-9-2025 14:53:22-debug: Query asset bundle start0%
+5-9-2025 14:53:22-debug: // ---- build task Query asset bundle ----
+5-9-2025 14:53:22-debug:   Number of all scenes: 4
+5-9-2025 14:53:22-debug: init custom config: keepNodeUuid: false, useCache: true
+5-9-2025 14:53:22-debug: Process: heapTotal 247.92MB heapUsed 210.97MB rss 278.48MB
+5-9-2025 14:53:22-debug:   Number of all scripts: 19
+5-9-2025 14:53:22-debug: // ---- build task Query asset bundle ---- (6ms)
+5-9-2025 14:53:22-debug: run build task Query asset bundle success in 6 ms √3%
+5-9-2025 14:53:22-debug: Process: heapTotal 247.92MB heapUsed 212.87MB rss 278.55MB
+5-9-2025 14:53:22-debug: Query and organize assets start3%
+5-9-2025 14:53:22-debug: init bundle assets
+5-9-2025 14:53:22-debug: // ---- build task Query and organize assets ----
+5-9-2025 14:53:22-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-9-2025 14:53:22-debug: Number of scenes: 4
+5-9-2025 14:53:22-debug: // ---- build task Query and organize assets ---- (1ms)
+5-9-2025 14:53:22-debug: // ---- build task Organize scripts ----
+5-9-2025 14:53:22-debug: Process: heapTotal 247.92MB heapUsed 213.00MB rss 278.61MB
+5-9-2025 14:53:22-debug: sort script group...
+5-9-2025 14:53:22-debug: run build task Query and organize assets success in 1 ms √7%
+5-9-2025 14:53:22-debug: Organize scripts start7%
+5-9-2025 14:53:22-debug: run build task Organize scripts success in 0 ms √10%
+5-9-2025 14:53:22-debug: // ---- build task Init settings and config ----
+5-9-2025 14:53:22-debug: Process: heapTotal 247.92MB heapUsed 213.03MB rss 278.64MB
+5-9-2025 14:53:22-debug: Init settings and config start10%
+5-9-2025 14:53:22-debug: run build task Init settings and config success in 0 ms √11%
+5-9-2025 14:53:22-debug: builder.tasks.settings.macro does not defined in i18n
+5-9-2025 14:53:22-debug: builder.tasks.settings.macro start11%
+5-9-2025 14:53:22-debug: // ---- build task builder.tasks.settings.macro ----
+5-9-2025 14:53:22-debug: Process: heapTotal 247.92MB heapUsed 213.05MB rss 278.64MB
+5-9-2025 14:53:22-debug: run build task builder.tasks.settings.macro success in 2 ms √11%
+5-9-2025 14:53:22-debug: Sort some build options to settings.json start11%
+5-9-2025 14:53:22-debug: // ---- build task Sort some build options to settings.json ----
+5-9-2025 14:53:22-debug: // ---- build task builder.tasks.settings.macro ---- (2ms)
+5-9-2025 14:53:22-debug: Process: heapTotal 247.92MB heapUsed 213.07MB rss 278.64MB
+5-9-2025 14:53:22-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+5-9-2025 14:53:22-debug: run build task Sort some build options to settings.json success in 2 ms √12%
+5-9-2025 14:53:22-debug: custom joint texture layouts start12%
+5-9-2025 14:53:22-debug: // ---- build task custom joint texture layouts ----
+5-9-2025 14:53:22-debug: Process: heapTotal 248.19MB heapUsed 213.36MB rss 279.08MB
+5-9-2025 14:53:22-debug: // ---- build task custom joint texture layouts ---- (1ms)
+5-9-2025 14:53:22-debug: run build task custom joint texture layouts success in 1 ms √12%
+5-9-2025 14:53:22-debug: custom joint physics start12%
+5-9-2025 14:53:22-debug: // ---- build task custom joint physics ----
+5-9-2025 14:53:22-debug: Process: heapTotal 248.19MB heapUsed 213.38MB rss 279.08MB
+5-9-2025 14:53:22-debug: run build task custom joint physics success in 0 ms √13%
+5-9-2025 14:53:22-debug: Fill script data to settings start13%
+5-9-2025 14:53:22-debug: // ---- build task Fill script data to settings ----
+5-9-2025 14:53:22-debug: Process: heapTotal 248.19MB heapUsed 213.40MB rss 279.08MB
+5-9-2025 14:53:22-debug: run build task Fill script data to settings success in 0 ms √13%
+5-9-2025 14:53:22-debug: Fill scene data to settings start13%
+5-9-2025 14:53:22-debug: // ---- build task Fill scene data to settings ----
+5-9-2025 14:53:22-debug: Process: heapTotal 248.19MB heapUsed 213.42MB rss 279.08MB
+5-9-2025 14:53:22-debug: run build task Fill scene data to settings success in 0 ms √14%
+5-9-2025 14:53:22-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-9-2025 14:53:22-debug: Process: heapTotal 248.19MB heapUsed 213.44MB rss 279.08MB
+5-9-2025 14:53:22-debug: Organize assets groups，generate packedAssets and rawAssets data start14%
+5-9-2025 14:53:22-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 0 ms √14%
+5-9-2025 14:53:22-debug: Generate md5AssetsMap from suffixMap to settings start14%
+5-9-2025 14:53:22-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-9-2025 14:53:22-debug: Process: heapTotal 248.19MB heapUsed 213.46MB rss 279.09MB
+5-9-2025 14:53:22-debug: options.md5Cache is false.
+5-9-2025 14:53:22-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 0 ms √15%
+5-9-2025 14:53:46-debug: refresh db internal success
+5-9-2025 14:53:46-debug: asset-db:worker-effect-data-processing (146ms)
+5-9-2025 14:53:46-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scriptbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:53:46-debug: refresh db assets success
+5-9-2025 14:53:46-debug: asset-db:refresh-all-database (183ms)
+5-9-2025 14:53:50-debug: refresh db internal success
+5-9-2025 14:53:51-debug: asset-db:worker-effect-data-processing (77ms)
+5-9-2025 14:53:51-debug: refresh db assets success
+5-9-2025 14:53:51-debug: asset-db:refresh-all-database (107ms)
+5-9-2025 14:54:26-debug: refresh db internal success
+5-9-2025 14:54:26-debug: asset-db:worker-effect-data-processing (106ms)
+5-9-2025 14:54:26-debug: refresh db assets success
+5-9-2025 14:54:26-debug: asset-db:refresh-all-database (143ms)
+5-9-2025 14:54:41-debug: refresh db internal success
+5-9-2025 14:54:41-debug: asset-db:worker-effect-data-processing (81ms)
+5-9-2025 14:54:41-debug: refresh db assets success
+5-9-2025 14:54:41-debug: asset-db:refresh-all-database (115ms)
+5-9-2025 14:55:32-debug: refresh db internal success
+5-9-2025 14:55:32-debug: asset-db:worker-effect-data-processing (100ms)
+5-9-2025 14:55:32-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameManager/GameController.tsbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:55:32-debug: refresh db assets success
+5-9-2025 14:55:32-debug: asset-db:refresh-all-database (143ms)
+5-9-2025 14:55:32-debug: start refresh asset from /Users/ADMIN/Desktop/drop-it/assets/Scene/Begin.scene...
+5-9-2025 14:55:32-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scene/Begin.scenebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:55:32-debug: refresh asset /Users/ADMIN/Desktop/drop-it/assets/Scene success
+5-9-2025 14:55:32-debug: Query all assets info in project
+5-9-2025 14:55:32-debug: init custom config: keepNodeUuid: false, useCache: true
+5-9-2025 14:55:32-debug:   Number of other assets: 539
+5-9-2025 14:55:32-debug: Query asset bundle start0%
+5-9-2025 14:55:32-debug: // ---- build task Query asset bundle ----
+5-9-2025 14:55:32-debug: Process: heapTotal 234.47MB heapUsed 202.01MB rss 276.02MB
+5-9-2025 14:55:32-debug: BuildAssetLibrary query-assets with assets 705
+5-9-2025 14:55:32-debug:   Number of all scenes: 4
+5-9-2025 14:55:32-debug:   Number of all scripts: 19
+5-9-2025 14:55:33-debug: // ---- build task Query asset bundle ---- (15ms)
+5-9-2025 14:55:33-debug: Process: heapTotal 232.22MB heapUsed 195.49MB rss 276.08MB
+5-9-2025 14:55:33-debug: run build task Query asset bundle success in 15 ms √3%
+5-9-2025 14:55:33-debug: Query and organize assets start3%
+5-9-2025 14:55:33-debug: // ---- build task Query and organize assets ----
+5-9-2025 14:55:33-debug: init bundle assets
+5-9-2025 14:55:33-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-9-2025 14:55:33-debug: Number of scenes: 4
+5-9-2025 14:55:33-debug: // ---- build task Query and organize assets ---- (5ms)
+5-9-2025 14:55:33-debug: run build task Query and organize assets success in 5 ms √7%
+5-9-2025 14:55:33-debug: Organize scripts start7%
+5-9-2025 14:55:33-debug: // ---- build task Organize scripts ----
+5-9-2025 14:55:33-debug: Process: heapTotal 232.22MB heapUsed 195.64MB rss 276.19MB
+5-9-2025 14:55:33-debug: sort script group...
+5-9-2025 14:55:33-debug: // ---- build task Organize scripts ---- (1ms)
+5-9-2025 14:55:33-debug: run build task Organize scripts success in 1 ms √10%
+5-9-2025 14:55:33-debug: Init settings and config start10%
+5-9-2025 14:55:33-debug: // ---- build task Init settings and config ----
+5-9-2025 14:55:33-debug: Process: heapTotal 232.22MB heapUsed 195.66MB rss 276.23MB
+5-9-2025 14:55:33-debug: run build task Init settings and config success in 0 ms √11%
+5-9-2025 14:55:33-debug: builder.tasks.settings.macro does not defined in i18n
+5-9-2025 14:55:33-debug: builder.tasks.settings.macro start11%
+5-9-2025 14:55:33-debug: // ---- build task builder.tasks.settings.macro ----
+5-9-2025 14:55:33-debug: Process: heapTotal 232.22MB heapUsed 195.69MB rss 276.27MB
+5-9-2025 14:55:33-debug: // ---- build task builder.tasks.settings.macro ---- (2ms)
+5-9-2025 14:55:33-debug: run build task builder.tasks.settings.macro success in 2 ms √11%
+5-9-2025 14:55:33-debug: Sort some build options to settings.json start11%
+5-9-2025 14:55:33-debug: // ---- build task Sort some build options to settings.json ----
+5-9-2025 14:55:33-debug: Process: heapTotal 232.22MB heapUsed 195.71MB rss 276.28MB
+5-9-2025 14:55:33-debug: // ---- build task Sort some build options to settings.json ---- (3ms)
+5-9-2025 14:55:33-debug: custom joint texture layouts start12%
+5-9-2025 14:55:33-debug: run build task Sort some build options to settings.json success in 3 ms √12%
+5-9-2025 14:55:33-debug: Process: heapTotal 232.48MB heapUsed 196.00MB rss 276.80MB
+5-9-2025 14:55:33-debug: // ---- build task custom joint texture layouts ----
+5-9-2025 14:55:33-debug: run build task custom joint texture layouts success in 1 ms √12%
+5-9-2025 14:55:33-debug: Process: heapTotal 232.48MB heapUsed 196.03MB rss 276.81MB
+5-9-2025 14:55:33-debug: // ---- build task custom joint physics ----
+5-9-2025 14:55:33-debug: // ---- build task custom joint texture layouts ---- (1ms)
+5-9-2025 14:55:33-debug: custom joint physics start12%
+5-9-2025 14:55:33-debug: run build task custom joint physics success in 0 ms √13%
+5-9-2025 14:55:33-debug: Fill script data to settings start13%
+5-9-2025 14:55:33-debug: // ---- build task Fill script data to settings ----
+5-9-2025 14:55:33-debug: Process: heapTotal 232.48MB heapUsed 196.04MB rss 276.91MB
+5-9-2025 14:55:33-debug: // ---- build task Fill script data to settings ---- (1ms)
+5-9-2025 14:55:33-debug: Process: heapTotal 232.48MB heapUsed 196.06MB rss 276.92MB
+5-9-2025 14:55:33-debug: run build task Fill script data to settings success in 1 ms √13%
+5-9-2025 14:55:33-debug: // ---- build task Fill scene data to settings ----
+5-9-2025 14:55:33-debug: Fill scene data to settings start13%
+5-9-2025 14:55:33-debug: run build task Fill scene data to settings success in 0 ms √14%
+5-9-2025 14:55:33-debug: Organize assets groups，generate packedAssets and rawAssets data start14%
+5-9-2025 14:55:33-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-9-2025 14:55:33-debug: Process: heapTotal 232.48MB heapUsed 196.09MB rss 276.95MB
+5-9-2025 14:55:33-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 0 ms √14%
+5-9-2025 14:55:33-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-9-2025 14:55:33-debug: Generate md5AssetsMap from suffixMap to settings start14%
+5-9-2025 14:55:33-debug: options.md5Cache is false.
+5-9-2025 14:55:33-debug: Process: heapTotal 232.48MB heapUsed 196.11MB rss 277.00MB
+5-9-2025 14:55:33-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 0 ms √15%
+5-9-2025 14:56:35-debug: refresh db internal success
+5-9-2025 14:56:35-debug: asset-db:worker-effect-data-processing (109ms)
+5-9-2025 14:56:35-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scenebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:56:35-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scriptbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:56:35-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Script/GameManagerbackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:56:35-debug: refresh db assets success
+5-9-2025 14:56:35-debug: asset-db:refresh-all-database (163ms)
+5-9-2025 14:56:36-debug: start refresh asset from /Users/ADMIN/Desktop/drop-it/assets/Scene/Begin.scene...
+5-9-2025 14:56:36-debug: %cImport%c: /Users/ADMIN/Desktop/drop-it/assets/Scene/Begin.scenebackground: #aaff85; color: #000;color: #000;
+5-9-2025 14:56:36-debug: refresh asset /Users/ADMIN/Desktop/drop-it/assets/Scene success
+5-9-2025 14:56:36-debug: Query all assets info in project
+5-9-2025 14:56:36-debug: BuildAssetLibrary query-assets with assets 705
+5-9-2025 14:56:36-debug: init custom config: keepNodeUuid: false, useCache: true
+5-9-2025 14:56:36-debug:   Number of all scenes: 4
+5-9-2025 14:56:36-debug:   Number of all scripts: 19
+5-9-2025 14:56:36-debug:   Number of other assets: 539
+5-9-2025 14:56:36-debug: Query asset bundle start0%
+5-9-2025 14:56:36-debug: // ---- build task Query asset bundle ----
+5-9-2025 14:56:36-debug: Process: heapTotal 237.55MB heapUsed 202.97MB rss 277.81MB
+5-9-2025 14:56:36-debug: // ---- build task Query asset bundle ---- (7ms)
+5-9-2025 14:56:36-debug: run build task Query asset bundle success in 7 ms √3%
+5-9-2025 14:56:36-debug: Query and organize assets start3%
+5-9-2025 14:56:36-debug: // ---- build task Query and organize assets ----
+5-9-2025 14:56:36-debug: Process: heapTotal 235.50MB heapUsed 196.47MB rss 278.56MB
+5-9-2025 14:56:36-debug: init bundle assets
+5-9-2025 14:56:36-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-9-2025 14:56:36-debug: Number of scenes: 4
+5-9-2025 14:56:36-debug: run build task Query and organize assets success in 6 ms √7%
+5-9-2025 14:56:36-debug: Process: heapTotal 235.50MB heapUsed 196.63MB rss 278.63MB
+5-9-2025 14:56:36-debug: sort script group...
+5-9-2025 14:56:36-debug: // ---- build task Query and organize assets ---- (6ms)
+5-9-2025 14:56:36-debug: // ---- build task Organize scripts ----
+5-9-2025 14:56:36-debug: Organize scripts start7%
+5-9-2025 14:56:36-debug: // ---- build task Organize scripts ---- (1ms)
+5-9-2025 14:56:36-debug: run build task Organize scripts success in 1 ms √10%
+5-9-2025 14:56:36-debug: Init settings and config start10%
+5-9-2025 14:56:36-debug: // ---- build task Init settings and config ----
+5-9-2025 14:56:36-debug: Process: heapTotal 235.50MB heapUsed 196.66MB rss 278.63MB
+5-9-2025 14:56:36-debug: // ---- build task Init settings and config ---- (1ms)
+5-9-2025 14:56:36-debug: builder.tasks.settings.macro start11%
+5-9-2025 14:56:36-debug: // ---- build task builder.tasks.settings.macro ----
+5-9-2025 14:56:36-debug: builder.tasks.settings.macro does not defined in i18n
+5-9-2025 14:56:36-debug: run build task Init settings and config success in 1 ms √11%
+5-9-2025 14:56:36-debug: Process: heapTotal 235.50MB heapUsed 196.68MB rss 278.66MB
+5-9-2025 14:56:36-debug: run build task builder.tasks.settings.macro success in 1 ms √11%
+5-9-2025 14:56:36-debug: // ---- build task builder.tasks.settings.macro ---- (1ms)
+5-9-2025 14:56:36-debug: Sort some build options to settings.json start11%
+5-9-2025 14:56:36-debug: // ---- build task Sort some build options to settings.json ----
+5-9-2025 14:56:36-debug: Process: heapTotal 235.50MB heapUsed 196.71MB rss 278.66MB
+5-9-2025 14:56:36-debug: // ---- build task Sort some build options to settings.json ---- (4ms)
+5-9-2025 14:56:36-debug: run build task Sort some build options to settings.json success in 4 ms √12%
+5-9-2025 14:56:36-debug: custom joint texture layouts start12%
+5-9-2025 14:56:36-debug: // ---- build task custom joint texture layouts ----
+5-9-2025 14:56:36-debug: Process: heapTotal 235.77MB heapUsed 197.00MB rss 279.20MB
+5-9-2025 14:56:37-debug: // ---- build task custom joint texture layouts ---- (2ms)
+5-9-2025 14:56:37-debug: custom joint physics start12%
+5-9-2025 14:56:37-debug: // ---- build task custom joint physics ----
+5-9-2025 14:56:37-debug: Process: heapTotal 235.77MB heapUsed 197.02MB rss 279.20MB
+5-9-2025 14:56:37-debug: run build task custom joint texture layouts success in 2 ms √12%
+5-9-2025 14:56:37-debug: // ---- build task custom joint physics ---- (1ms)
+5-9-2025 14:56:37-debug: // ---- build task Fill script data to settings ----
+5-9-2025 14:56:37-debug: Fill script data to settings start13%
+5-9-2025 14:56:37-debug: run build task custom joint physics success in 1 ms √13%
+5-9-2025 14:56:37-debug: Process: heapTotal 235.77MB heapUsed 197.04MB rss 279.22MB
+5-9-2025 14:56:37-debug: run build task Fill script data to settings success in 0 ms √13%
+5-9-2025 14:56:37-debug: Fill scene data to settings start13%
+5-9-2025 14:56:37-debug: Process: heapTotal 235.77MB heapUsed 197.05MB rss 279.27MB
+5-9-2025 14:56:37-debug: // ---- build task Fill scene data to settings ----
+5-9-2025 14:56:37-debug: run build task Fill scene data to settings success in 0 ms √14%
+5-9-2025 14:56:37-debug: Organize assets groups，generate packedAssets and rawAssets data start14%
+5-9-2025 14:56:37-debug: Process: heapTotal 235.77MB heapUsed 197.07MB rss 279.28MB
+5-9-2025 14:56:37-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-9-2025 14:56:37-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 0 ms √14%
+5-9-2025 14:56:37-debug: Generate md5AssetsMap from suffixMap to settings start14%
+5-9-2025 14:56:37-debug: options.md5Cache is false.
+5-9-2025 14:56:37-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-9-2025 14:56:37-debug: Process: heapTotal 235.77MB heapUsed 197.10MB rss 279.28MB
+5-9-2025 14:56:37-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 0 ms √15%

@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup_gameover",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 473,
+      "height": 742
+    },
+    "offset": {
+      "x": -9.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 492,
+      "height": 742
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -236.5,
+        -371,
+        0,
+        236.5,
+        -371,
+        0,
+        -236.5,
+        371,
+        0,
+        236.5,
+        371,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        742,
+        473,
+        742,
+        0,
+        0,
+        473,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        0.9613821138211383,
+        0,
+        0,
+        1,
+        0.9613821138211383,
+        1
+      ],
+      "minPos": {
+        "x": -236.5,
+        "y": -371,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 236.5,
+        "y": 371,
+        "z": 0
+      }
+    },
+    "texture": "93e1dfdb-8e27-4faf-82f1-9e8017d07d50@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

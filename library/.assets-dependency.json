@@ -1,0 +1,18 @@
+{
+  "path": {
+    "/Users/ADMIN/Desktop/drop-it/assets/Animation/logo.skel": [
+      "/Users/ADMIN/Desktop/drop-it/assets/Animation/logo.atlas"
+    ],
+    "/Users/ADMIN/Desktop/DropIt_Cocos/DropIt/DropIt_Cocos/assets/Animation/logo.skel": [
+      "/Users/ADMIN/Desktop/DropIt_Cocos/DropIt/DropIt_Cocos/assets/Animation/logo.atlas"
+    ]
+  },
+  "uuid": {
+    "/Users/ADMIN/Desktop/drop-it/assets/Animation/logo.skel": [
+      "a686401c-84b9-41ee-89da-5585d2b6a0bb@6c48a"
+    ],
+    "/Users/ADMIN/Desktop/DropIt_Cocos/DropIt/DropIt_Cocos/assets/Animation/logo.skel": [
+      "a686401c-84b9-41ee-89da-5585d2b6a0bb@6c48a"
+    ]
+  }
+}
